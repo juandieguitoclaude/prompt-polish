@@ -1,0 +1,6 @@
+{
+  "name": "prompt-polish",
+  "version": "0.1.0",
+  "description": "A button above the prompt that rewrites your draft into a clearer, better prompt.",
+  "types": "./types/index.d.ts"
+}
