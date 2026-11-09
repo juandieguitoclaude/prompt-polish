@@ -1,5 +1,5 @@
 {
   "name": "prompt-polish",
-  "owner": { "name": "clau" },
+  "owner": { "name": "juandieguitoclaude" },
   "plugins": [{ "name": "prompt-polish", "source": "./" }]
 }
